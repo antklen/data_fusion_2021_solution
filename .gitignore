@@ -1,0 +1,10 @@
+*.csv
+*.txt
+*.parquet
+*.json
+*.bin
+*.pb
+__pycache__
+variables
+assets
+runs

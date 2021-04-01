@@ -1,0 +1,10 @@
+output_path: data/models/distilbert_unigram_50k
+preprocess:
+  tokenizer_path: data/tokenizers/unigram_50k.json
+  max_len: 32
+model:
+  input_shape: 32
+  transformer_model: data/lm_models/distilbert_lm_unigram_50k/final/
+train:
+  epochs: 5
+  batch_size: 64

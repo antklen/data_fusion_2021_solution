@@ -1,0 +1,10 @@
+output_path: data/models/distilbert_bpe_60k
+preprocess:
+  tokenizer_path: data/tokenizers/bpe_60k.json
+  max_len: 32
+model:
+  input_shape: 32
+  transformer_model: data/lm_models/distilbert_lm_bpe_60k/final/
+train:
+  epochs: 6
+  batch_size: 64

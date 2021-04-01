@@ -1,0 +1,7 @@
+tokenizer_path: data/tokenizers/bpe_60k.json
+vocab_size: 60000
+mlm_probability:  0.2
+output_path: data/lm_models/distilbert_lm_bpe_60k
+num_train_epochs: 10
+learning_rate: 5e-5
+batch_size: 32
