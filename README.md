@@ -1,6 +1,6 @@
-# Data Fusion Contest
+# Data Fusion 2021 Contest
 
-4th place solution for [Goodsification task of Data Fusion Contest](https://boosters.pro/championship/data_fusion/overview).
+4th place solution for [Goodsification task of Data Fusion 2021 Contest](https://boosters.pro/championship/data_fusion/overview).
 
 ## Task
 
